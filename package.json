@@ -1,0 +1,23 @@
+{
+  "name": "heroes-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbconnect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpeara/heroes-db-init.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpeara/heroes-db-init/issues"
+  },
+  "homepage": "https://github.com/kpeara/heroes-db-init#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.0"
+  }
+}
