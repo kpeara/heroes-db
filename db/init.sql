@@ -15,7 +15,10 @@ CREATE TABLE IF NOT EXISTS hero (
 );
 
 
--- adding dummy data
+-- TEST DATA - just to visualize the schema!
+-- Comment it out once you've got an idea. Use the application to add data
+
+-- user passwords are not stored in plaintext! Just for demonstration.
 INSERT INTO user (username, password) VALUES ("manman", "manman");
 INSERT INTO user (username, password) VALUES ("frogboy", "frogboy");
 
